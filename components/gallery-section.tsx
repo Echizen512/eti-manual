@@ -56,13 +56,13 @@ const teamMembers = [
     name: "Zaidelys Rondón",
     role: "Estudiante de Informática",
     description: "UPTA Aragua - PNF Informática",
-    avatar: "/zai.jpg",
+    avatar: "/Zai.jpg",
   },
   {
     name: "Marielvis Sosa",
     role: "Estudiante de Informática",
     description: "UPTA Aragua - PNF Informática",
-    avatar: "/mari.jpg",
+    avatar: "/Mari.jpg",
   },
   {
     name: "Dorianny Vergara",

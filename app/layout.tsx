@@ -17,7 +17,6 @@ export const metadata: Metadata = {
   title: "Manual Interactivo - Mantenimiento Preventivo PC | ETI La Victoria",
   description:
     "Manual interactivo completo sobre mantenimiento preventivo de computadoras para el Laboratorio de Informática de la ETI La Victoria, Estado Aragua",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
